@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Painting of Might and Magic III",
+    "home_page_url": "https://pl.paint-h3.qwrtln.nl/",
+    "feed_url": "https://pl.paint-h3.qwrtln.nl/feed_json_updated.json",
+    "description": "Malowanie figurek Heroes of Might and Magic III",
+    "icon": null,
+    "authors": [],
+    "language": "pl",
+    "items": [
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/troll/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/troll/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Troll",
+            "content_html": "<h1>Troll</h1>\n<p>Druga neutralna jednostka.</p>\n<p><img alt=\"Troll front\" src=\"../assets/troll_front.jpg\">  <img alt=\"Troll back\" src=\"../assets/troll_back.jpg\"></p>\n<p>Podobno zielon\u0105 sk\u00f3r\u0119 \u0142atwiej jest n...</p>",
+            "image": null,
+            "date_modified": "2024-11-24T22:44:00.057156+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/rozb%C3%B3jnik/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/rozb%C3%B3jnik/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Rozb\u00f3jnik",
+            "content_html": "<h1>Rozb\u00f3jnik</h1>\n<p>Zacz\u0105\u0142em od malowania neutralnych jednostek, aby si\u0119 podszkoli\u0107.</p>\n<p><img alt=\"Rogue front\" src=\"../assets/rogue_front.jpeg\">  ![Rogue back](../assets/rogue_back...</p>",
+            "image": null,
+            "date_modified": "2024-11-24T22:44:00.052500+00:00",
+            "authors": [],
+            "tags": null
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Painting of Might and Magic III</title>
+    <description>Malowanie figurek Heroes of Might and Magic III</description>
+    <link>https://pl.paint-h3.qwrtln.nl/</link>
+    <atom:link href="https://pl.paint-h3.qwrtln.nl/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    
+    <language>pl</language>
+
+    
+    <pubDate>Sun, 24 Nov 2024 22:43:59 -0000</pubDate>
+    <lastBuildDate>Sun, 24 Nov 2024 22:43:59 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.16.0</generator>
+
+    
+    
+
+    
+    
+    <item>
+      <title>Troll</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Troll&lt;/h1&gt;
+&lt;p&gt;Druga neutralna jednostka.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Troll front&#34; src=&#34;../assets/troll_front.jpg&#34;&gt;  &lt;img alt=&#34;Troll back&#34; src=&#34;../assets/troll_back.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Podobno zieloną skórę łatwiej jest n...&lt;/p&gt;</description>
+      <link>https://pl.paint-h3.qwrtln.nl/posts/2024/11/troll/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 24 Nov 2024 22:44:00 +0000</pubDate>
+      <source url="https://pl.paint-h3.qwrtln.nl/feed_rss_updated.xml">Painting of Might and Magic III</source>
+      
+      <guid isPermaLink="true">https://pl.paint-h3.qwrtln.nl/posts/2024/11/troll/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Rozbójnik</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Rozbójnik&lt;/h1&gt;
+&lt;p&gt;Zacząłem od malowania neutralnych jednostek, aby się podszkolić.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Rogue front&#34; src=&#34;../assets/rogue_front.jpeg&#34;&gt;  ![Rogue back](../assets/rogue_back...&lt;/p&gt;</description>
+      <link>https://pl.paint-h3.qwrtln.nl/posts/2024/11/rozb%C3%B3jnik/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 24 Nov 2024 22:44:00 +0000</pubDate>
+      <source url="https://pl.paint-h3.qwrtln.nl/feed_rss_updated.xml">Painting of Might and Magic III</source>
+      
+      <guid isPermaLink="true">https://pl.paint-h3.qwrtln.nl/posts/2024/11/rozb%C3%B3jnik/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
