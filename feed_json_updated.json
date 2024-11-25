@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Painting of Might and Magic III",
+    "home_page_url": "https://pl.paint-h3.qwrtln.nl/",
+    "feed_url": "https://pl.paint-h3.qwrtln.nl/feed_json_updated.json",
+    "description": "Malowanie figurek Heroes of Might and Magic III",
+    "icon": null,
+    "authors": [],
+    "language": "pl",
+    "items": [
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/troll/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/troll/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Troll",
+            "content_html": "Druga pomalowana herosowa jednostka.",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/troll_front.jpeg",
+            "date_modified": "2024-11-25T16:37:45.238596+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/rozb%C3%B3jnik/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/rozb%C3%B3jnik/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Rozb\u00f3jnik",
+            "content_html": "Pocz\u0105tek nowego hobby.",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg",
+            "date_modified": "2024-11-25T16:37:44.483126+00:00",
+            "authors": [],
+            "tags": null
+        }
+    ]
+}
