@@ -1,0 +1,112 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Painting of Might and Magic III",
+    "home_page_url": "https://pl.paint-h3.qwrtln.nl/",
+    "feed_url": "https://pl.paint-h3.qwrtln.nl/feed_json_updated.json",
+    "description": "Malowanie figurek Heroes of Might and Magic III",
+    "icon": null,
+    "authors": [],
+    "language": "pl",
+    "items": [
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/troll/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/troll/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Troll",
+            "content_html": "Druga pomalowana herosowa jednostka.",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/troll_front.jpeg",
+            "date_modified": "2025-04-03T22:11:47.768613+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2025/03/strzelec/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2025/03/strzelec/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Strzelec",
+            "content_html": "Gotowy do s\u0142u\u017cby w Stra\u017cy Le\u015bnej.",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/sharpshooter/sharpshooter-front.webp",
+            "date_modified": "2025-04-03T22:11:47.651583+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/rdzawy-smok/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/rdzawy-smok/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Rdzawy Smok",
+            "content_html": "Druga najpot\u0119\u017cniejsza istota w grze",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/rust-dragon/processed/1.webp",
+            "date_modified": "2025-04-03T22:11:47.481005+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/rozb%C3%B3jnik/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/rozb%C3%B3jnik/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Rozb\u00f3jnik",
+            "content_html": "Pocz\u0105tek nowego hobby.",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg",
+            "date_modified": "2025-04-03T22:11:47.334094+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/ch%C5%82op/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2024/11/ch%C5%82op/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Ch\u0142op",
+            "content_html": "Jak zosta\u0142em Pieterem Bruegelem na jeden wiecz\u00f3r.",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/peasant_front.webp",
+            "date_modified": "2025-04-03T22:11:47.215693+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/mumia/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/mumia/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Mumia",
+            "content_html": "Malowanie w\u0142asnej wersji Eddiego z Iron Maiden.",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/mummy-front.webp",
+            "date_modified": "2025-04-03T22:11:47.039736+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/nizio%C5%82ek/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/nizio%C5%82ek/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Nizio\u0142ek",
+            "content_html": "Niepozorny Frodo, kt\u00f3rego nikt nie chce malowa\u0107.",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/halfling/halfling.webp",
+            "date_modified": "2025-04-03T22:11:46.884335+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/z%C5%82oty-golem/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/z%C5%82oty-golem/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Z\u0142oty Golem",
+            "content_html": "Zaskakuj\u0105co przyjemny Faraon do malowania.",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/gold-golem/gold-golem.webp",
+            "date_modified": "2025-04-03T22:11:46.727412+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/pierwsza-si%C3%B3demka/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/pierwsza-si%C3%B3demka/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Pierwsza Si\u00f3demka",
+            "content_html": "Wnioski wyci\u0105gni\u0119te z pocz\u0105tku przygody.",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/first-seven.webp",
+            "date_modified": "2025-04-03T22:11:46.466419+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/dzik/",
+            "url": "https://pl.paint-h3.qwrtln.nl/posts/2025/02/dzik/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Dzik",
+            "content_html": "First mini with a large 5 cm base.",
+            "image": "https://pl.paint-h3.qwrtln.nl/assets/images/boar-1.webp",
+            "date_modified": "2025-04-03T22:11:46.032876+00:00",
+            "authors": [],
+            "tags": null
+        }
+    ]
+}
